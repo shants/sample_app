@@ -1,3 +1,11 @@
+Deployed on Heroku :
+
+Following link :
+
+https://mighty-escarpment-57049.herokuapp.com
+
+
+
 # README
 
 # Ruby on Rails Tutorial sample application
